@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.1033835
+color:
+  lightness: 0.7105263
+  brandStrength: 1
+  saturation: 0.06633986
+  rhythmicContrast: 0.5703346
+  brandColors:
+    - '#280003'
+    - '#EAA37F'
+    - '#E9282F'
+    - '#C47853'
+    - '#FFCEAC'
+name: World Groove Representations
